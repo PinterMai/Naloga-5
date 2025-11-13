@@ -1,5 +1,5 @@
 # Uvod v Git
-
+Tukaj je moja sprememba
 Git je orodje, ki omogoča **sledenje spremembam** v datotekah in učinkovito **sodelovanje v skupinah**.  
 Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode Linux jedra.  
 Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme. HEJ JAZ SEM JAZ IN TU PISEM STVARI. TU PA JAZ JAN EDITAM BESEDILO DRUGIČ. TU EDITAM TRETJIČČČČČ!!!!
